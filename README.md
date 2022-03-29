@@ -1,0 +1,2 @@
+# ProyectoJavaBorja2022
+Borja será el jefe del proyecto, este proyecto se ha inicializado el día 29/03/2022 y tiene como fecha de finalización el 09/04/2022, el modelo de planificación a usar será el comunmente conocido como "modelo en espiral", iniciaremos con una primera fase de planificación,  realizamos un análisis de riesgos, desarrollamos el proyecto, mejoramos el proyecto, comprobamos fallos en el proyecto, mejoramos el  programa, mantenemos el funcionamiento del programa.
